@@ -1,5 +1,5 @@
 ---
-name: Tracking issue
+name: Feature/Task
 about: Use this template for tracking new tasks and features.
 title: "[TASK|FEATURE] [TITLE]"
 ---
